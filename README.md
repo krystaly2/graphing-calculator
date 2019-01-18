@@ -1,3 +1,8 @@
+References for this project:
+- React plotly library: https://plot.ly/javascript/react/
+- Graphr: https://github.com/yerich/Graphr
+- Desmos: https://www.desmos.com/calculator
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
